@@ -61,7 +61,7 @@ pip install -r requirements.txt
 If `requirements.txt` is not present, install manually:
 
 ```
-pip install pandas numpy matplotlib seaborn scikit-learn streamlit
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ---
