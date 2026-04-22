@@ -68,7 +68,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ##  How to Run
 
-### Step 1: Run Data Processing & Analysis
+### Run Data Processing & Analysis
 
 Open and run the notebook:
 
@@ -85,20 +85,6 @@ This will:
 
 ```
 data/merged_data.csv
-```
-
----
-
-### Step 2: Run the Dashboard
-
-```
-streamlit run app.py
-```
-
-Then open the local URL shown in terminal (usually):
-
-```
-http://localhost:8501
 ```
 
 ---
